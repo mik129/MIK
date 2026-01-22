@@ -1,8 +1,8 @@
-🛡️ Portfolio Cybersécurité — Eddy Mikhael Axel Raoul Diomande
+###🛡️ Portfolio Cybersécurité — Eddy Mikhael Axel Raoul Diomande
 Bienvenue sur mon espace GitHub dédié à mes projets en cybersécurité, Linux, automatisation, et développement technique.
 Je suis étudiant en première année à L’ESTIAM (France) et je construis un parcours orienté pentest, SecOps, et sécurisation d’infrastructures.
 
-Mon objectif : décrocher un stage en cybersécurité et contribuer à des missions concrètes en entreprise.
+##Mon objectif : décrocher un stage en cybersécurité et contribuer à des missions concrètes en entreprise.
 
 🚀 À propos de moi
 🎓 Étudiant en cybersécurité (1ère année – L’ESTIAM)

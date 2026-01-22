@@ -1,124 +1,157 @@
-###🛡️ Portfolio Cybersécurité — Eddy Mikhael Axel Raoul Diomande
-Bienvenue sur mon espace GitHub dédié à mes projets en cybersécurité, Linux, automatisation, et développement technique.
-Je suis étudiant en première année à L’ESTIAM (France) et je construis un parcours orienté pentest, SecOps, et sécurisation d’infrastructures.
+# 🧑‍💻 **Présentation**
 
-##Mon objectif : décrocher un stage en cybersécurité et contribuer à des missions concrètes en entreprise.
+## 👋 **À propos de moi**
 
-🚀 À propos de moi
-🎓 Étudiant en cybersécurité (1ère année – L’ESTIAM)
+Je m’appelle **Eddy Diomande**, étudiant en deuxième année à **L’ESTIAM**, passionné par :
 
-💼 CDI chez McDonald’s (discipline, rigueur, gestion du stress)
+- la **sécurité des systèmes**,
+- l’**analyse réseau**,
+- la **mise en place d’environnements Linux sécurisés**,
+- et la compréhension des mécanismes d’attaque/défense.
 
-🛠️ Freelance sur Fiverr (Linux, scripting, automatisation, support technique)
+## 🎯 **Objectif professionnel**
 
-🧩 Créateur d’un micro‑SaaS no‑code pour PME
+Je suis actuellement **à la recherche d’une alternance en cybersécurité**, dans les domaines suivants :
 
-🔐 Passionné par le pentest, la sécurité Linux, les workflows automatisés et l’audit réseau
+- Pentest
+- Sécurité système
+- SOC / Blue Team
+- Administration Linux
+- Réseau & sécurité
 
-Je travaille chaque semaine sur des projets techniques pour renforcer mes compétences et bâtir un portfolio solide pour les recruteurs.
+Mon ambition est de renforcer mes compétences techniques tout en contribuant à la sécurité et à la fiabilité des infrastructures de l’entreprise qui m’accueillera.
 
-📂 Mes projets principaux
-🔍 1. Audit Réseau & Scans Avancés — Nmap
-Résumé :  
-Projet d’audit réseau complet utilisant Nmap (scans SYN, OS fingerprinting, scripts NSE, détection de services, firewall evasion).
-Mise en place d’une méthodologie d’analyse et rédaction d’un rapport technique.
+## 🔍 **Ce que j’apporte**
 
-👉 Lien : (à ajouter)
+- Une motivation réelle pour apprendre et progresser
+- Une base solide en **Linux, réseau et sécurité**
+- Une capacité à **créer, automatiser et sécuriser** des environnements techniques
+- Une approche **rigoureuse, méthodique et orientée solution**
+- Une bonne compréhension des **risques et enjeux cyber**
+- 
+  ## 🎓projets academics ##
 
-🛡️ 2. Sécurisation d’un Serveur Linux (UFW, SSH, HTTPS, SSL/TLS)
-Résumé :  
-Déploiement d’un serveur Linux sécurisé :
+# 🛡️ **1. Pentest Complet – Satom IT Learning Solution**
 
-configuration UFW
+## 📌 **Contexte**
 
-durcissement SSH (clé RSA, désactivation password auth)
+Audit interne simulé pour **Satom IT Learning Solution**, visant à évaluer la sécurité du réseau interne et du Wi‑Fi invité.
+Mission réalisée dans un environnement **isolé, légal et pédagogique**.
 
-installation Apache2 + HTTPS
+## 🧪 **Mission**
 
-génération et installation de certificats SSL/TLS
+### 🔹 Audit 1 : Reconnaissance & Cartographie réseau (Nmap)
 
-👉 Lien : (à ajouter)
+Analyse des hôtes, services, OS, ports sensibles, scripts NSE, vulnérabilités.
 
-⚙️ 3. Automatisation No‑Code (Make.com + API + Webhooks)
-Résumé :  
-Création d’un workflow automatisé pour PME :
+### 🔹 Audit 2 : Analyse pédagogique des vulnérabilités
 
-onboarding client
+Étude des risques liés à FTP, Telnet, SSH, VSFTPD, Samba.
 
-génération de documents
+### 🔹 Audit 3 : Post‑exploitation & élévation de privilèges
 
-envoi automatisé d’emails
+Analyse des vecteurs d’élévation, persistance, risques administrateur.
 
-intégration Airtable / Gmail / Webhooks
+### 🔹 Audit 4 : Audit Wi‑Fi (WPA2)
 
-logique d’erreurs et validation des données
+Analyse de la robustesse d’un réseau invité, compréhension du handshake WPA2, recommandations.
 
-👉 Lien : (à ajouter)
+## ⭐ **Valeur ajoutée**
 
-🎮 4. Développement Unity / C# — Mini‑Jeux & Mécaniques
-Résumé :  
-Création de prototypes de jeux avec Unity :
+Projet complet de type **pentest professionnel**, démontrant ma capacité à :
 
-scripts C#
+- analyser un réseau
+- comprendre et contextualiser des vulnérabilités
+- structurer et documenter un audit
+- formuler des recommandations pertinentes
+- respecter un cadre légal et éthique
 
-gestion des collisions
+# 🖥️ **2. Infrastructure Linux Sécurisée (UFW, Apache2, SSH, HTTPS)**
 
-UI/UX basique
+## 📌 **Contexte**
 
-logique de gameplay
+Projet réalisé dans le cadre du module Linux avancé, visant à mettre en place une **architecture client‑serveur sécurisée**.
 
-👉 Lien : (à ajouter)
+## 🧪 **Mission**
 
-🧪 5. Exercices Hack The Box — Starting Point
-Résumé :  
-Résolution de machines débutantes :
+- Installation de deux machines Linux (client & serveur)
+- Configuration réseau et tests ICMP
+- Mise en place du firewall UFW (ports 80/443)
+- Installation et sécurisation d’un serveur Apache2
+- Activation HTTPS + certificats SSL/TLS
+- Mise en place d’un accès SSH sécurisé (mot de passe + clés RSA)
 
-reconnaissance
+## ⭐ **Valeur ajoutée**
 
-exploitation basique
+Ce projet démontre ma maîtrise :
 
-élévation de privilèges
+- du **durcissement Linux**
+- de la **configuration réseau**
+- de la **sécurisation SSH**
+- de la mise en place d’un **serveur web sécurisé**
 
-documentation des étapes
+# 🔥 **3. Filtrage Réseau & Sécurité – IPTABLES**
 
-👉 Lien : (à ajouter)
+## 📌 **Contexte**
 
-🧰 Compétences techniques
-🔐 Cybersécurité
-Nmap (scans, NSE, fingerprinting)
+Projet d’apprentissage du **filtrage réseau bas niveau** via IPTABLES, un outil essentiel pour comprendre la sécurité Linux.
 
-Analyse réseau
+## 🧪 **Mission**
 
-Pentest débutant (HTB, TryHackMe)
+- Analyse des règles existantes
+- Suppression et réinitialisation des règles
+- Blocage ciblé du ping (ICMP)
+- Réautorisation du trafic
+- Analyse du comportement SSH
+- Mise en place d’un filtrage adapté
+- Restauration complète du firewall
 
-Sécurisation Linux
+## ⭐ **Valeur ajoutée**
 
-🖥️ Systèmes & Dev
-Linux (Debian/Ubuntu)
+Ce projet démontre ma capacité à :
 
-Bash, Python, C++, C#, Java
+- comprendre le fonctionnement interne du firewall Linux
+- analyser et contrôler le trafic réseau
+- gérer les flux ICMP/SSH
+- documenter les impacts de chaque règle
 
-Apache2, UFW, SSH
+# 🛠️ **Compétences**
 
-SQL
+## 🖥️ **Systèmes & Administration**
 
-⚙️ Automatisation & No‑Code
-Make.com
+- Linux (administration, sécurité, services)
+- Microsoft Azure (notions)
 
-Airtable
+## 🌐 **Réseaux & Cybersécurité**
 
-API REST
+- Analyse réseau (Nmap, TCP/UDP/ICMP)
+- Sécurisation Linux (UFW, IPTABLES, SSH, SSL/TLS)
+- Gestion des accès & authentification
+- Automatisation (no‑code & scripting)
+- Notions IoT & sécurité des objets connectés
 
-Webhooks
+## 🧰 **Développement & Outils**
 
-🎯 Objectif actuel
-Je recherche un stage en cybersécurité (pentest, SOC, SecOps, sécurité Linux, automatisation).
-Je suis motivé, rigoureux et capable d’apprendre très vite.
+- Unity (création de jeux)
+- Automatisation no‑code (Make, API, workflows)
 
-📩 Contact : eddymikhaelaxel@gmail.com
-🔗 Portfolio Notion : (à ajouter)  
-🔗 LinkedIn : (à ajouter)
+## 💻 **Programmation**
 
-💬 Dernier mot
-Chaque projet ici reflète ma progression, ma discipline et ma passion pour la cybersécurité.
-Je continue d’ajouter de nouveaux travaux chaque semaine.
+- Python
+- C++
+- C#
+- Java
+- SQL
+
+# 🎓 **Certifications & Badges**
+
+- Cisco – Introduction to Cybersecurity
+- Badge Cybersécurité Administrative
+- Hack The Box – Badge “Starting Point”
+- Cisco – Network Essentials / Routing & Switching
+
+# 📞 **Contact**
+
+📧 **Email :** aaxeldiomande@gmail.com
+📱 **Téléphone :** 06 98 66 16 59
+🔗 **LinkedIn :** Eddy Diomande
